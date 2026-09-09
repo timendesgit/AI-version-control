@@ -1,4 +1,4 @@
-# ProfileCard v1.3 Release Notes
+# ProfileCard v1.4 Release Notes
 
 Release date: 2026-09-09
 
