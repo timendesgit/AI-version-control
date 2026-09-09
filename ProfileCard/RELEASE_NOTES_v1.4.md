@@ -2,7 +2,7 @@
 
 Release date: 2026-09-09
 
-Version 1.3 focuses on making ProfileCard more reliable for day-to-day engineer-card generation, safer to upgrade, and clearer to use when managing generated opportunities.
+Version 1.4 focuses on making ProfileCard more reliable for day-to-day engineer-card generation, safer to upgrade, and clearer to use when managing generated opportunities.
 
 ## Highlights
 
